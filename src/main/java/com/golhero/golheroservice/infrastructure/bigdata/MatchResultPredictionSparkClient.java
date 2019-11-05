@@ -16,9 +16,6 @@ public class MatchResultPredictionSparkClient implements MatchResultPredictionCl
 
     @Override
     public int predict(MatchResultPredictionCmd cmd) {
-
-        sparkSession.
-
         return 0;
     }
 }
